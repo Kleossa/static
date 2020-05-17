@@ -1,7 +1,44 @@
 {
-  "name": "json",
-  "version": "1.0.0",
-  "dependencies": {
-    
-  }
+  "products": [
+    {
+      "id_product": 1,  "product_name": "Processor",  "price": 45600,
+      "img": "https://github.com/Kleossa/static/raw/master/images/cpu_01.jpg"
+    },
+    {
+      "id_product": 2,  "product_name": "Processor",  "price": 41600,
+      "img": "https://github.com/Kleossa/static/raw/master/images/cpu_02.jpg"
+    },
+    {
+      "id_product": 3,  "product_name": "Keyboard",  "price": 1600,
+      "img": "https://github.com/Kleossa/static/raw/master/images/keyboard_01.jpg"
+    },
+    {
+      "id_product": 4,  "product_name": "Keyboard",  "price": 3600,
+      "img": "https://github.com/Kleossa/static/raw/master/images/keyboard_02.jpg"
+    },
+    {
+      "id_product": 5,  "product_name": "Monitor",  "price": 10600,
+      "img": "https://github.com/Kleossa/static/raw/master/images/monitor_01.jpg"
+    },
+    {
+      "id_product": 6,  "product_name": "Monitor",  "price": 15600,
+      "img": "https://github.com/Kleossa/static/raw/master/images/monitor_02.jpg"
+    },
+    {
+      "id_product": 7,  "product_name": "Mouse",  "price": 600,
+      "img": "https://github.com/Kleossa/static/raw/master/images/mouse_01.jpg"
+    },
+    {
+      "id_product": 8,  "product_name": "Mouse",  "price": 1000,
+      "img": "https://github.com/Kleossa/static/raw/master/images/mouse_02.jpg"
+    },
+    {
+      "id_product": 9,  "product_name": "Notebook",  "price": 89600,
+      "img": "https://github.com/Kleossa/static/raw/master/images/notebook_01.jpg"
+    },
+    {
+      "id_product": 10,  "product_name": "Notebook",  "price": 99600,
+      "img": "https://github.com/Kleossa/static/raw/master/images/notebook_02.jpg"
+    }
+  ]
 }
